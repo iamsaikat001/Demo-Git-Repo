@@ -1,4 +1,2 @@
 this is version of my project
 Hello this is Mal
-this is change now
-hello
